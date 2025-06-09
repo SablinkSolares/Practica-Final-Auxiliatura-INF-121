@@ -1,0 +1,40 @@
+[
+    {
+        "nombre_farmacia": "Farmacorp",
+        "sucursal": 1,
+        "direccion": "Calle Nistaus 123",
+        "medicamentos": [
+            {
+                "nombre": "Ibuprofeno",
+                "cod_med": 101,
+                "tipo": "Dolor",
+                "precio": 5.0
+            },
+            {
+                "nombre": "Golpex",
+                "cod_med": 102,
+                "tipo": "Herida",
+                "precio": 7.5
+            }
+        ]
+    },
+    {
+        "nombre_farmacia": "Farmacia Chavez",
+        "sucursal": 2,
+        "direccion": "Avenida Panoramica 456",
+        "medicamentos": [
+            {
+                "nombre": "Paracetamol",
+                "cod_med": 201,
+                "tipo": "Fiebre",
+                "precio": 3.0
+            },
+            {
+                "nombre": "Golpex",
+                "cod_med": 202,
+                "tipo": "Herida",
+                "precio": 8.0
+            }
+        ]
+    }
+]

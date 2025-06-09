@@ -1,0 +1,9 @@
+Norman,30,5000.0
+Katty,25,6000.0
+Eliseo,35,7000.0
+Norman,30,5000.0
+Katty,25,6000.0
+Eliseo,35,7000.0
+Norman,30,5000.0
+Katty,25,6000.0
+Eliseo,35,7000.0

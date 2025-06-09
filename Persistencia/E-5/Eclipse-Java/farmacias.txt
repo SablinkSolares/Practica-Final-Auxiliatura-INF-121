@@ -1,0 +1,8 @@
+Farmacorp,1,Calle Buenos Aires 123
+Mentisan Plus,101,Resfriado,5.0
+Golpex,102,Herida,7.5
+FIN_FARMACIA
+Farmacia Chavez,2,Avenida 6 de Agisto 456
+Amoxicilina,201,Neumonia,3.0
+Golpex,202,Herida,8.0
+FIN_FARMACIA
